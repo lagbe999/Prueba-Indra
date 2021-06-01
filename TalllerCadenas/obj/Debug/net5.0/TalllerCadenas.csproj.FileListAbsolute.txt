@@ -1,0 +1,16 @@
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\TalllerCadenas.exe
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\TalllerCadenas.deps.json
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\TalllerCadenas.runtimeconfig.json
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\TalllerCadenas.runtimeconfig.dev.json
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\TalllerCadenas.dll
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\ref\TalllerCadenas.dll
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\bin\Debug\net5.0\TalllerCadenas.pdb
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.csprojAssemblyReference.cache
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.AssemblyInfoInputs.cache
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.AssemblyInfo.cs
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.csproj.CoreCompileInputs.cache
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.dll
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\ref\TalllerCadenas.dll
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.pdb
+D:\Descargas\PruebaTecnica3Tech\TalllerCadenas\obj\Debug\net5.0\TalllerCadenas.genruntimeconfig.cache

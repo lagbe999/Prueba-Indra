@@ -1,0 +1,68 @@
+
+Prueba:
+Construir una función que reciba una cadena como parámetro, esta cadena debe tener un tipo de carácter especial en medio de varias letras de la cadena, debe quitar el carácter e imprima la cadena sin el carácter especial . Adicionalmente la función debe contabilizar e imprimir la aparición del carácter especial.INGRESAR CARÁCTER A BUSCAR = #EJEMPLO:ENTRADA = CAD#E#NA
+SALIDAS = CADENA
+
+
+
+
+
+
+using System;
+
+namespace TallerCadenas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            //string cadena_input = "#EJEMPLO:ENTRADA = CAD#E#NA";
+            string cadena_input = Console.ReadLine();
+            int largo_cadena = cadena_input.Length;
+
+            string result = Buscar_Cadena(cadena_input);
+
+            Console.WriteLine("Cadena : {0}", cadena);
+        }
+        private string Buscar_Cadena (String cadena);
+        {
+            string[] array_texto = new string[27];
+            string[] array_Nueva = new string[27]; 
+            for (int i=0;i<=27;i++)
+            {
+                array_texto[i] = substring(TalllerCadenas, i, 1);
+                if (array_texto[i] =="#")
+                {
+                   Console.writeline("Posicion del caracter {0}", i+1);
+                 } else
+                nuevatxt = nuevatxt + substring(TalllerCadenas, i, 1);
+                }
+            }
+            Console.writeline("Nueva Cadena sin Caracteres {0}", nuevatxt);
+            return cadena;
+
+        }
+
+}
+
+
+
+
+
+
+            string[] array_texto = new string[27];
+            string[] array_Nueva = new string[27]; 
+            for (int i=0;i<=27;i++)
+            {
+                array_texto[i] = substring(TalllerCadenas, i, 1);
+                if (array_texto[i] =="#")
+                {
+                   Console.writeline("Posicion del caracter {0}", i+1);
+                 } else
+                nuevatxt = nuevatxt + substring(TalllerCadenas, i, 1);
+                }
+            }
+            Console.writeline("Nueva Cadena sin Caracteres {0}", nuevatxt);
+            return cadena;
+
